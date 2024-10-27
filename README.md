@@ -3,7 +3,6 @@ Python-разработчик. Имею большой опыт работы с 
 
 [Краткое резюме](https://drive.google.com/file/d/1pKIl25Ngw1okwbSxqmFrAZVpeJR61AE6/view?usp=sharing)
 
-- Почта: diksandab@gmail.com
 - [GitHub](https://github.com/aderny-twc)
 - [LinkedIn](google.com)
 
