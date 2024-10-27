@@ -4,7 +4,7 @@ Python-разработчик. Имею большой опыт работы с 
 [Краткое резюме](https://drive.google.com/file/d/1czjX0RJV2gd6yxj4SXimmtxaMZ4BeWj-/view?usp=sharing)
 
 - [GitHub](https://github.com/aderny-twc)
-- [LinkedIn](google.com)
+- [Telegram](https://t.me/aderny_twc)
 
 ## Опыт работы
 
