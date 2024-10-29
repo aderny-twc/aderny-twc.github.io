@@ -3,8 +3,7 @@ Python-разработчик. Имею большой опыт работы с 
 
 [Краткое резюме](https://drive.google.com/file/d/1czjX0RJV2gd6yxj4SXimmtxaMZ4BeWj-/view?usp=sharing)
 
-- [GitHub](https://github.com/aderny-twc)
-- [LinkedIn](google.com)
+[GitHub](https://github.com/aderny-twc)
 
 ## Опыт работы
 
@@ -37,7 +36,7 @@ Python-разработчик. Имею большой опыт работы с 
 - **ORM**: Django ORM, SQLAlchemy
 - **NoSQL**: Redis, Elasticsearch
 - **Тесты**: pytest, coverage, hypothesis, k6
-- **Остальное**: Linux, Docker, Git, Celery, RabbitMQ
+- **Остальное**: Linux, Docker, Git, Celery, RabbitMQ, Ansible, Kubernetes
 
 ## Образование
 
