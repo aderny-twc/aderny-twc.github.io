@@ -1,7 +1,7 @@
 Python-разработчик. Имею большой опыт работы с фреймворками Django, Flask, FastAPI. Писал много кода с использованием DRF, а также библиотеки graphene (GraphQL). Знаю как писать код и для монолитной архитектуры и для микросервисной. Стараюсь следовать DDD и чистой архитектуре. Также, использую подход TDD. Легко адаптируюсь под code-style команды и проекта. Нормально отношусь легаси. На базовом уровне знаю JS и Go.
 Английский владею на уровне чтения технической литературы.
 
-[Краткое резюме](https://drive.google.com/file/d/1czjX0RJV2gd6yxj4SXimmtxaMZ4BeWj-/view?usp=sharing)
+[Краткое резюме](https://drive.google.com/file/d/1CFsJx0SLW2AnWUkSzAdFEJ5Zt5Aqfs9_/view?usp=sharing)
 
 [GitHub](https://github.com/aderny-twc)
 
